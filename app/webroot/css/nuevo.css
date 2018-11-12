@@ -1,0 +1,201 @@
+
+
+.carousel-control.left {
+    color: #000000;
+    background-image: none;
+}
+
+.carousel-control.right {
+    color: #000000;
+    background-image: none;
+}
+
+.noticiasImgs {
+    width: 200px;
+    height: 115px;
+
+}
+
+
+
+#botones {
+    background-color: #D6ECFF;
+}
+
+#botones:hover {
+    background-color: #A9B9C7;
+}
+
+#botones:active {
+    background-color: #1473C7;
+}
+
+#botones:focus {
+    background-color: #00C6C9;
+}
+
+.carousel-control {
+    width: 0%;
+}
+
+.col-md-3 {
+    width: 12%;
+    right: 0px;
+    margin: 68px;
+}
+
+h1{
+    text-align: center;
+    margin-right: 850px;
+    font: oblique bold 150% cursive; 
+    padding-top: 0px;
+}
+
+#pie_pag{
+    background: #808080;
+}
+
+#imagen_pie{
+    width : 100px;
+    height : 100px;
+    margin-left: 15%;
+    padding-top: 15px;
+}
+.panel {
+    margin-bottom: 14px;
+    background-color: #fff;
+    border: 4px solid transparent;
+    border-radius: 30px;
+    
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+.panel-info {
+    border-color: #bce8f1;
+    padding-left: 141px;
+    width: 108%;
+}
+.panel-title {
+    margin-top: 15px;
+    margin-bottom: 9px;
+    font-size: 16px;
+    color: inherit;
+    margin-left: -116px;
+}
+w
+.panel-body {
+    padding: 23px;
+    /* padding-right: initial; */
+    padding-left: 310px;
+    padding-top: 39px;
+}
+.panel-primary {
+    border-color: #337ab7;
+  
+    MARGIN-LEFT: 194PX;
+    height: 290px;
+    WIDTH: 750PX
+}
+
+.contrase1{
+padding-left: 127px;
+
+}
+
+#texto{
+
+    font: oblique bold 110% cursive; 
+         color: #337ab7;
+         text-align: center;
+}
+
+.digital
+{
+    width: 170px;
+    height: 170px;
+    background-position: 11px;
+    margin-left: 66%;
+    margin-top: -354px;
+
+}
+
+#Iniciar{
+    margin-left: 189px;
+    font-family:Calibri;
+    font-size: 12pt;
+     font-weight: 600;
+}
+
+
+#tabla{
+    margin-left: 14%;
+}
+
+#pie{
+    text-align: left;
+    font: oblique bold 120% cursive; 
+     color: #000;
+     text-shadow: #555 2px 2px 3px;
+    text-align: center;
+}
+
+#pie_col{
+text-align: center;
+padding-left:35%;
+margin-left: 12%;
+font: oblique bold 100% cursive; 
+} 
+
+#carousel12{
+text-align: center;
+text-align: left;
+    font: monospace 150%;
+    font-size: 8pt;
+}
+
+legend{
+    text-align: center;
+    font-size: 1.11em;
+    text-align: left;
+    color: 0000FF;
+    border-bottom: 3px solid #dad8f0;
+    margin-bottom: -58px;
+    padding: 0px;
+}
+#Usuario{
+      width: 303px;
+    margin: 1px 0;
+  
+    box-shadow: 2px 2px 2px 2px #eee;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    font-family: Calibri,Tahoma,Arial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+     text-indent: 0px;
+    text-shadow: none;
+     margin: 0em 0em 0em 0em;
+     text-rendering: auto;
+    color: initial;  
+}
+
+#Contraseña{
+      width: 303px;
+    margin: 1px 0;
+  
+    box-shadow: 2px 2px 2px 2px #eee;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    font-family: Calibri,Tahoma,Arial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+     text-indent: 0px;
+    text-shadow: none;
+     margin: 0em 0em 0em 0em;
+     text-rendering: auto;
+    color: initial;  
+}
+
+

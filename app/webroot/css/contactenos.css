@@ -1,0 +1,185 @@
+
+a {
+	background-color: #D6ECFF;
+
+}
+
+a:hover {
+	background-color: #A9B9C7;
+}
+
+a:active {
+	background-color: #1473C7;
+}
+
+a:focus {
+	background-color: #00C6C9;
+}
+	
+
+#pie_pag{
+
+	background: #808080;
+}
+#imagen_pie{
+	width : 100px;
+	height : 100px;
+	margin-left: 15%;
+	padding-top: 15px;
+}
+
+table{
+	margin-left: 14%;
+}
+
+#pie{
+    text-align: left;
+	font: oblique bold 120% cursive; 
+	 color: #000;
+	 text-shadow: #555 2px 2px 3px;
+	text-align: center;
+
+}
+
+#pie_col{
+text-align: center;
+padding-left:18%;
+margin-left: 12%;
+font: oblique bold 100% cursive; 
+}
+
+h2{
+	text-align: center;
+	font: oblique bold 250% cursive; 
+} 
+h3{
+   
+   font-weight:bold;
+} 
+
+#seleccionar{
+   width: 303px;
+    margin: 1px 0;
+  
+    box-shadow: 2px 2px 2px 2px #eee;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    font-family: Calibri,Tahoma,Arial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+     text-indent: 0px;
+    text-shadow: none;
+     margin: 0em 0em 0em 0em;
+     text-rendering: auto;
+    color: initial;  
+   
+}
+   
+#Nombres{
+    width: 303px;
+    margin: 1px 0;
+  
+    box-shadow: 2px 2px 2px 2px #eee;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    font-family: Calibri,Tahoma,Arial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+     text-indent: 0px;
+    text-shadow: none;
+     margin: 0em 0em 0em 0em;
+     text-rendering: auto;
+    color: initial;  
+ 
+    
+
+}
+
+#Email{
+  width: 303px;
+    margin: 1px 0;
+  
+    box-shadow: 2px 2px 2px 2px #eee;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    font-family: Calibri,Tahoma,Arial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+     text-indent: 0px;
+    text-shadow: none;
+     margin: 0em 0em 0em 0em;
+     text-rendering: auto;
+    color: initial;  
+}
+
+#Teléfono{
+  width: 303px;
+    margin: 1px 0;
+  
+    box-shadow: 2px 2px 2px 2px #eee;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    font-family: Calibri,Tahoma,Arial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+     text-indent: 0px;
+    text-shadow: none;
+     margin: 0em 0em 0em 0em;
+     text-rendering: auto;
+    color: initial;  
+}
+
+#Asunto{
+  width: 303px;
+    margin: 1px 0;
+  
+    box-shadow: 2px 2px 2px 2px #eee;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    font-family: Calibri,Tahoma,Arial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+     text-indent: 0px;
+    text-shadow: none;
+     margin: 0em 0em 0em 0em;
+     text-rendering: auto;
+    color: initial;  
+}
+
+#Mensaje{
+	  width: 303px;
+    margin: 1px 0;
+  
+    box-shadow: 2px 2px 2px 2px #eee;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    font-family: Calibri,Tahoma,Arial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+     text-indent: 0px;
+    text-shadow: none;
+     margin: 0em 0em 0em 0em;
+     text-rendering: auto;
+    color: initial;  
+}
+
+#formulario{
+	
+	margin-top: -13px;
+    width: 630px;
+    float:left;
+
+}
+
+.container-fluid {
+    padding-right: 519px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
